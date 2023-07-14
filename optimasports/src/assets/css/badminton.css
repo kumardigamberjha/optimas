@@ -1,0 +1,10 @@
+.badminton{
+    background-image:url(../Images/badddddddd.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(40px);
+    padding-top: 1em;
+}

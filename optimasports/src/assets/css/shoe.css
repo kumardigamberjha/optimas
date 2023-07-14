@@ -1,0 +1,9 @@
+.shoe{
+    background-image: url(../Images/SHOES.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    
+}

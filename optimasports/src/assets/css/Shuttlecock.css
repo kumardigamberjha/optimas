@@ -1,0 +1,9 @@
+.shuttle{
+    background-image:url(../Images/shuttlec2.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    padding-top: 1em;
+}

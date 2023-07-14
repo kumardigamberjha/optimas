@@ -1,0 +1,7 @@
+.parallax-bg{
+    background-image: url(../Images/saif71-com-0gU9h0KZ1tE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+}

@@ -1,0 +1,7 @@
+.about{
+    background-image: url(../Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+}

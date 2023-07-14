@@ -1,0 +1,8 @@
+.bgwall{
+    background-image: url(../Images/bgwall.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
